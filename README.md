@@ -1,8 +1,6 @@
-# website-spk
-<!DOCTYPE html>
 <html>
 <head>
-	<title>WEBSITE TK ASSALAM</title>
+	<title>WEBSITE Tugas SPK</title>
 	<link rel="stylesheet" type="text/css" href="style web.css">
 </head>
 <body>
@@ -39,8 +37,8 @@
 			<div class="widget">
 				<h2>Nama Kelompok</h2>
 				<p>Muhammad Rifki ; 191106041400</p>
-				<P>Saga ; 191106041398</P>
-				<p>Aditia ; 191106041378</p>
+				<P>Saga ; 191106041386</P>
+				<p>Aditia ; 191106041384</p>
 			</div>
 		</aside>
 		<!-- akhir bagian sidebar website -->
@@ -58,16 +56,24 @@
 			</div>
 			<div class="conteudo">
 				<img src="Snickets Corp.jpg">
-				<h1> Contoh Metode Sistem Pendukung Keputusan (SPK) </h1>
+				<h1> PENERAPAN METODE SIMPLE ADDITIVE WEIGHTING (SAW) PADA SISTEM SELEKSI PENERIMAAN CALON SISWA BARU (STUDI KASUS: SMK NEGERI 1 CIREBON)</h1>
 				<hr>
-				<h2>Analytic Hierarchy Process (AHP)</h2>
+				<h2>Simple Additive Weighting(SAW)</h2>
 				<p>
-					Analytic Hierarchy Process (AHP) adalah teknik untuk mendukung proses pengambilan keputusan yang bertujuan untuk menentukan pilihan terbaik dari beberapa alternatif yang dapat diambil. AHP dikembangkan oleh Thomas L.Saaty pada tahun 1970-an, dan telah mengalami banyak perbaikan dan pengembangan hingga saat ini. Kelebihan AHP adalah dapat memberikan kerangka yang komprehensif dan rasional dalam menstrukturkan permasalahan pengambilan keputusan.
+					Metode Simple Additive Weighting (SAW) dikenal juga sebagai kombinasi linear atau metode pembobotan skor, yaitu teknik pengambilan atribut sederhana dan paling sering di gunakan. Metode ini didasarkan pada rata-rata pembobotan. Skor evaluasi dihitung untuk setiap alternatif dengan mengalikan nilai skala yang diberikan kepada alternatif bahwa atribut dengan bobot kepentingan relatif diberikan langsung oleh pengambil keputusan diikuti dengan menjumlahkan produk untuk semua kriteria. Keuntungan dari metode ini adalah perubahan linear proporsional data mentah yang berarti bahwa urutan relatif besarnya nilai standar tetap sama.
 				</p>
-				<h2>Technique For Others Reference by Similarity to Ideal Solution (TOPSIS)</h2>
+				<h2>Menentukan kriteria</h2>
 				<p>
-					Technique For Others Reference by Similarity to Ideal Solution (TOPSIS) adalah salah satu metode pengambilan keputusan multikriteria yang pertama kali diperkenalkan oleh Yoon dan Hwang (1981). TOPSIS menggunakan prinsip bahwa alternatif yang terpilih harus mempunyai jarak terdekat dari solusi ideal positif dan terjauh dari solusi ideal negatif dari sudut pandang geometris dengan menggunakan jarak Euclidean untuk menentukan kedekatan relatif dari suatu alternatif dengan solusi optimal.
-				</p>			
+					Berdasarkan keputusan panitia pendaftaran di sekolah SMK Negeri 1 Cirebon yang diambil dari referensi Petunjuk Teknis PPDB 2015 Online Untuk SMK, dilakukan berdasarkan pada :
+					<p>1.	Nilai Mata Pelajaran yang terdapat pada Sertifikat Hasil Ujian Nasional (SHUN) yaitu : Nilai Matematika, Nilai Bahasa Inggris, Nilai Ilmu Pengetahuan Alam, dan Nilai Bahasa Indonesia.</p>
+					<p>2.	Nilai tes kesehatan untuk pertimbangan PPDB SMK diserahkan ke sekolah yang bersangkutan.</p>
+					<p>3.	Jika nilai akhir pada poin 1, pada batas maksimum daya tampung (passing grade) sama, maka dilakukan urutan langkah seleksi yaitu perbandingan Nilai Hasil Ujian Sekolah (SHUS) / Sertifikat Hasil Ujian Nasional (SHUN) setiap mata pelajaran yang lebih besar dengan urutan nilai mata pelajaran Matematika, Bahasa Inggris, Ilmu Pengetahuan Alam, dan Bahasa Indonesia.</p>
+					<img src="tugas spk final_page-0006.jpg">
+					<img src="tugas spk final_page-0007.jpg">
+					<img src="tugas spk final_page-0008.jpg">
+					<img src="tugas spk final_page-0009.jpg">
+					<img src="tugas spk final_page-0010.jpg">
+				</p>
 				<a href="#" class="continue-lendo">Selengkapnya →</a>
 			</div>
 		</div>
